@@ -1,0 +1,188 @@
+
+body
+{
+    color: #777;
+    margin: 0px;
+    font-family: sans-serif;
+}
+.carousel-inner img
+{
+    width: 100%;
+}
+.navbar-toggle{
+    background-color:black !important;
+}
+.navbar-inverse
+{
+    background-color:white;
+    border: none;
+    height: 70px !important;
+    border-bottom: 2px solid #E9E9E9;
+    
+
+}
+.navbar-brand{
+    height: 20px;
+}
+.navbar-brand img {
+    display: block;
+    margin-top: -14px;
+}
+
+.navbar-inverse
+{
+    
+    margin:auto;
+}
+.navbar-inverse ul
+{
+    list-style: none;
+     padding-top: 20px;
+    padding-bottom: 20px;  
+}
+.navbar-inverse ul li
+{
+    padding:5px;
+    float:left; 
+}
+.navbar-inverse  ul li a
+{
+    text-decoration: none;
+    color:#848C25 !important;
+    text-transform: uppercase;
+    font-weight:800;
+    padding:10px;
+    font-size: 12px;
+    background-color: none !important;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+    background-color:rgb(169, 235, 225, 0.4);
+}
+.navbar-inverse  ul li a:hover
+{
+    color:darkgray !important;
+}
+
+#band h3
+{
+    
+     color: #111;
+    font-size: 20px;
+    letter-spacing: 10px;
+    margin: 10px 0 30px;
+    
+}
+#band p
+{
+    font-size: 18px;
+}
+#map
+{
+    margin-top:20px;
+    background-image: url(mainpic.jpg);
+    min-height: 350px;
+    
+}
+.googlemap
+{
+    margin:0px;
+    padding: 20px;
+    float:left;
+ 
+}
+.contact
+{ 
+    margin-top:15px;
+    margin-left: -10px;
+    float:right;
+
+    color:#25302b;
+    padding:5px 70px 10px;
+    font-size: 14px;
+    
+}
+.contact p{
+    font-size: 17px;
+    font-weight:bold;
+}
+.bg-8
+{
+    color:#60686C;
+    margin:50px 20px 10px 70px;
+}
+.line-h
+{
+    border-bottom: 2px solid #cfc7c6;
+}
+.bg-8 p
+{
+    padding-top:25px;
+    color:495057;
+    text-align: justify;
+    font-size: 16px;
+}
+.social{
+    text-align: center;
+}
+.social ul
+{
+    list-style: none;
+    
+}
+.social ul li a{
+   text-decoration: none;
+    padding: 8px;
+    float: left;
+    margin-left: 10px;
+}
+.fa-instagram{
+    color:saddlebrown;
+}
+.fa-youtube{
+    color:rgb(235, 14, 14,0.9);
+}
+.fa-twitter{
+    color:rgb(0,132,180);
+}
+.fa-facebook{
+    color:#3b5998;
+}
+.copy{
+    background-color: #5F5F5F !important;
+    padding:2px;
+    color:#c1c4c9 !important;
+    margin-bottom: 0px;
+    
+}
+.copy h3{
+    font-size: 13px;
+}
+#abc{
+    margin-top:40px;
+     font-size: 20px;
+    letter-spacing: 8px;
+    
+}
+#kathmandubook{
+    margin-top:100px;
+}
+.ktm h3{
+    color:#b09999;
+    letter-spacing: 5px;
+}
+#email{
+    width: 50%;
+}
+#msg{
+    width: 49%;
+    min-height: 50px;
+}
+#kathmandubook h4{
+     color:#b09999;
+    letter-spacing: 2px;
+    margin-left: 0px;
+}
+.errormsg{
+    color:dimgrey;
+    font-size: 20px;
+}
